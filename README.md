@@ -16,3 +16,4 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+![alt text](https://i.imgur.com/LVv6eQq.png)
