@@ -1,4 +1,4 @@
-# Login page in NuxtJS/VueJs
+# Login page of Slidz Platform (NuxtJS/VueJs)
 
 ## Build Setup
 
