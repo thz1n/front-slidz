@@ -1,4 +1,4 @@
-# landing
+# Login page in NuxtJS/VueJs
 
 ## Build Setup
 
